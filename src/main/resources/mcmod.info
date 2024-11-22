@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noteblock_backport",
+  "name": "Noteblock Backport",
+  "description": "Bring 1.14 instruments into 1.12.2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KibbeWater"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
