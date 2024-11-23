@@ -1,0 +1,44 @@
+{
+  "banjo": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.banjo",
+    "sounds": [
+      "noteblock_backport:banjo"
+    ]
+  },
+  "bit": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.bit",
+    "sounds": [
+      "noteblock_backport:bit"
+    ]
+  },
+  "cow_bell": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.cow_bell",
+    "sounds": [
+      "noteblock_backport:cow_bell"
+    ]
+  },
+  "didgeridoo": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.didgeridoo",
+    "sounds": [
+      "noteblock_backport:didgeridoo"
+    ]
+  },
+  "iron_xylophone": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.iron_xylophone",
+    "sounds": [
+      "noteblock_backport:iron_xylophone"
+    ]
+  },
+  "pling": {
+    "category": "music",
+    "subtitle": "noteblock_backport.subtitle.pling",
+    "sounds": [
+      "noteblock_backport:pling"
+    ]
+  }
+}
